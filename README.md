@@ -1,4 +1,4 @@
-# Al Hera AHmad's Portfolio
+# Al Hera Ahmad's Portfolio
 This is my personal portfolio in making.
 I am 3rd year computer engineering student of ZHCET, AMU.
 
